@@ -1,0 +1,49 @@
+.env
+README.md
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+
+
+
+# Flask
+instance/
+.webassets-cache
+
+# Logs
+*.log
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints
+
+# Testing
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+*.egg-info/

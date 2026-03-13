@@ -1,0 +1,42 @@
+# Node modules
+ATTRIBUTIONS.md
+README.md
+guidelines/
+src/imports
+node_modules/
+
+# Production build
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Vite
+.vite/
+
+# Testing
+coverage/
+
+# TypeScript
+*.tsbuildinfo
