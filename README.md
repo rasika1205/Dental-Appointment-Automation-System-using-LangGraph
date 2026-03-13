@@ -61,6 +61,15 @@ The system follows a supervisor pattern where a central coordinator analyzes use
 - **Backend**: Flask, Python , REST API architecuture
 - **Database**: MYSQL
 
+## Demo
+
+<img width="1442" height="372" alt="Image" src="https://github.com/user-attachments/assets/82c54074-fa1e-4da2-944d-0e4e59d3c7ab" />
+<img width="900" height="811" alt="Image" src="https://github.com/user-attachments/assets/efd746c2-95b9-491c-9cfc-ba244c6b0cdb" />
+<img width="953" height="158" alt="Image" src="https://github.com/user-attachments/assets/3cb9c6b0-69cb-4cf7-a425-8cfd6afa4b30" />
+<img width="1906" height="908" alt="Image" src="https://github.com/user-attachments/assets/3c0c26c4-1a9a-41c7-8606-aff3066ff2b8" />
+<img width="1916" height="907" alt="Image" src="https://github.com/user-attachments/assets/3b96184f-d440-43e4-884b-404fd9026abc" />
+
+---
 
 ## Project Structure
 
@@ -285,11 +294,6 @@ This ensures **two users cannot book the same slot simultaneously**.
 
 ---
 
-# 📸 Screenshots
-
-
-
----
 
 # 🔮 Future Improvements
 
